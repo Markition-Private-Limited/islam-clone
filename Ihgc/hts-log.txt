@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Aug 2026 23:27:51 at https://html.kodesolution.com/2026/islamus-html/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.kodesolution.com/2026/islamus-html/ -%L https://html.kodesolution.com/2026/islamus-html/ -O1 "D:\Ihgc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:27:51	Error: 	Could not include URL list: https://html.kodesolution.com/2026/islamus-html/
+23:30:21	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/page-service-details.html (from https://html.kodesolution.com/2026/islamus-html/)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/preloader.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/pattern-1.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/pattern-2.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/pattern-3.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/pattern-4.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/pattern-5.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/pattern-6.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/resource/pricing-pattern.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/resource/offer-badge.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/resource/pricing-pattern-2.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/shape-2.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/shape-6.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/shape-s1.svg (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/resource/feature-icon-pattern.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/shape-cirlcle.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/shape-1.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/shape-8.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/shape-3.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/pattern-7.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/cat-1-bg.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/cat-2-bg.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/cat-3-bg.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/cat-4-bg.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/pattern-8.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/icons/shape-7.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/images/main-slider/slide-shape-bottom.png (from https://html.kodesolution.com/2026/islamus-html/css/style.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/page-gallery.html (from https://html.kodesolution.com/2026/islamus-html/index-3.html)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/shop-details.html (from https://html.kodesolution.com/2026/islamus-html/shop-products-sidebar.html)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/yourdomain.com (from https://html.kodesolution.com/2026/islamus-html/page-event-details.html)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/css/images/ui-icons_777620_256x240.png (from https://html.kodesolution.com/2026/islamus-html/css/jquery-ui.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/css/images/ui-icons_cc0000_256x240.png (from https://html.kodesolution.com/2026/islamus-html/css/jquery-ui.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/fonts/webfonts/fa-brands-400.woff2 (from https://html.kodesolution.com/2026/islamus-html/css/fontawesome-free.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/fonts/webfonts/fa-brands-400.ttf (from https://html.kodesolution.com/2026/islamus-html/css/fontawesome-free.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/fonts/webfonts/fa-regular-400.woff2 (from https://html.kodesolution.com/2026/islamus-html/css/fontawesome-free.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/fonts/webfonts/fa-regular-400.ttf (from https://html.kodesolution.com/2026/islamus-html/css/fontawesome-free.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/fonts/webfonts/fa-solid-900.woff2 (from https://html.kodesolution.com/2026/islamus-html/css/fontawesome-free.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/fonts/webfonts/fa-solid-900.ttf (from https://html.kodesolution.com/2026/islamus-html/css/fontawesome-free.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/fonts/webfonts/fa-v4compatibility.woff2 (from https://html.kodesolution.com/2026/islamus-html/css/fontawesome-free.css)
+23:31:05	Error: 	"Not Found" (404) at link https://html.kodesolution.com/2026/islamus-html/fonts/webfonts/fa-v4compatibility.ttf (from https://html.kodesolution.com/2026/islamus-html/css/fontawesome-free.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 15 seconds : 370 links scanned, 329 files written (22273819 bytes overall) [15710198 bytes received at 80565 bytes/sec], 9789738 bytes transferred using HTTP compression in 120 files, ratio 29%, 92.5 requests per connection
+(41 errors, 0 warnings, 0 messages)

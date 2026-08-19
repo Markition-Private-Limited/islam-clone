@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "islamus-html",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8080", "--directory", "Ihgc/html.kodesolution.com/2026/islamus-html"],
+      "port": 8080,
+      "url": "http://localhost:8080"
+    }
+  ]
+}
